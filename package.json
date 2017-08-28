@@ -1,10 +1,10 @@
 {
-  "name": "@a-ui/core",
+  "name": "a-ui-enterprise",
   "version": "1.0.0",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/a-ui/core_branding_scss.git"
+    "url": "https://github.com/bertceyssens/core_branding_scss.git"
   },
   "scripts": {
     "prepublish": "gulp build",
@@ -16,12 +16,8 @@
   ],
   "contributors": [
     {
-      "name": "Jasper Van Proeyen",
-      "email": "jasper.vanproeyen@digipolis.be"
-    },
-    {
-      "name": "Sander Geenen",
-      "email": "sander.geenen@district01.be"
+      "name": "Bert Ceyssens",
+      "email": "bert.ceyssens@digipolis.be"
     }
   ],
   "license": "MIT",
